@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "571522412933",
+    "firebase_url": "https://thuexeapp.firebaseio.com",
+    "project_id": "thuexeapp",
+    "storage_bucket": "thuexeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571522412933:android:4358e26098e9a4488794ec",
+        "android_client_info": {
+          "package_name": "com.example.myInstagramClone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571522412933-hf0bmif95sfa1985ukfdldj94ijs95h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSShNvTLqZ4sKG5ed5nAgiqxWSEvCpTPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571522412933-hf0bmif95sfa1985ukfdldj94ijs95h0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571522412933-0kl13rmqe88fttmpnlgu3fstp5fsera2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myInstagramClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571522412933:android:82661642e7f947098794ec",
+        "android_client_info": {
+          "package_name": "com.thuexeapp.friendlyeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571522412933-hf0bmif95sfa1985ukfdldj94ijs95h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSShNvTLqZ4sKG5ed5nAgiqxWSEvCpTPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571522412933-hf0bmif95sfa1985ukfdldj94ijs95h0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571522412933-0kl13rmqe88fttmpnlgu3fstp5fsera2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myInstagramClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
